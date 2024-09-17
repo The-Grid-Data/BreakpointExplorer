@@ -51,8 +51,8 @@ export const Header = () => {
           <Image
             alt="Breakpoint logo"
             src="/breakpoint_logo.png"
-            width={300}
-            height={300}
+            width={200}
+            height={200}
           />
         </Link>
       </div>
