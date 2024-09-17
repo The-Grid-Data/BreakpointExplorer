@@ -8,10 +8,10 @@ export const Hero = () => {
       </Badge>
 
       <h1 className="scroll-m-20 text-balance text-center text-4xl font-extrabold leading-tight tracking-tight lg:text-5xl lg:leading-[1.1]">
-        An explorable list of Breakpoint 2024 Sponsors / Exhibtors.
+        An explorable list of Breakpoint 2024 Sponsors / Exhibitors.
       </h1>
       <p className="max-w-xl text-center text-lg font-light text-foreground">
-        Use the filters below to see the data and find projects interesting to you.
+        Use the filters below to see the data and find projects that interest you.
       </p>
     </section>
   );

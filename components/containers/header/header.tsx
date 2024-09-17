@@ -38,7 +38,7 @@ const cloneRepoButton = (
   >
     <Button className="w-full md:w-fit" variant="outline">
       <SiX className="mr-2" size={18} />
-      Check out the Marketmap
+      Explore the market map
     </Button>
   </Link>
 );
