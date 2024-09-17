@@ -2,7 +2,7 @@
 
 import Link from 'next/link';
 import { MenuIcon } from 'lucide-react';
-import { SiTwitter } from 'react-icons/si';
+import { SiX } from 'react-icons/si';
 
 import { Sheet, SheetContent, SheetTrigger } from '@/components/ui/sheet';
 import { Button } from '@/components/ui/button';
@@ -37,7 +37,7 @@ const cloneRepoButton = (
     rel="noopener noreferrer"
   >
     <Button className="w-full md:w-fit" variant="outline">
-      <SiTwitter className="mr-2" size={18} />
+      <SiX className="mr-2" size={18} />
       Check out the Marketmap
     </Button>
   </Link>
